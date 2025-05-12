@@ -34,13 +34,18 @@ Below is the overview page from the PowerBI dashboard and more examples are incl
 
 ![plant-co-sales-performance-report](https://github.com/user-attachments/assets/659746c8-d95e-4d16-a08c-9d583fd1eb35)
 
-## Sales Trends:
+## Insights Deep Dive:
 - Significant sales downturns occurred in February 2023, with revenue at $343.79K from 42,000 orders, and in October 2023, with revenue at $230.12K from 40,300 orders. Subsequent months saw a slight recovery in revenue and order numbers, largely due to sustained order volume growth.
 - Despite a general downward trend, Gross Profit for the full year 2023 remained positive. This was largely attributed to a strong performance in April, where revenue and order volume surpassed April 2022 figures by 15% and 25%, respectively.
 - Year-on-year order value increased in February 2024, driven by a 35.56% rise in the market share of outdoor orders in China.
+- Overall sales in 2022 showed significant fluctuation, with a strong improvement in March (+13K units) before experiencing a notable dip in July (-8K units).
+- Identifies the 10 regions with the most significant declines in sales volume during 2023. For instance, China's sales volume decreased by 9,760 units, while France saw a reduction of 9,360 units.
 
 ## Recommendations:
 Based on the uncovered insights, the following recommendations have been provided:
+- Analysis of 2024 performance reveals that February achieved the highest year-over-year growth. It is recommended to analyze the activities and strategies implemented in February to identify key success factors. These insights can then be used to adapt our approach for subsequent months and refine the strategy for the next quarter, aiming to drive improved results.
+- Examining the changes in the bottom 10 country from last year to this year presents an opportunity to identify underperforming areas and rethink market strategies.
+- Target High-Growth Customer Segments: Categorize customers and focus on groups with above-average GP% growth to boost sales value in profitable tiers. Implement tailored campaigns or subscriptions to cultivate loyalty and retain these valuable customers.
 
 
 

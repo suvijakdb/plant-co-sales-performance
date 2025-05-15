@@ -19,8 +19,6 @@ Insights and recommendations are provided on the following key areas:
 
 An interactive PowerBI dashboard can be downloaded [here:](https://drive.google.com/file/d/1e_dReXU8xwjBwyMYL4ZVTKWQ7aMbFoOc/view?usp=sharing)
 
-Targeted SQL queries regarding various business questions can be found [here:]()
-
 ## Data Structure
 The Plant Co. database comprises three tables: Dim_Account, Fact_Sales, and Dim_Product, containing a total of 2,440 records.
 
